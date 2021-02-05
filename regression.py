@@ -7,7 +7,7 @@ import numpy as np
 from datetime import datetime
 import os
 
-#commento
+#commentomartino
 #--  pip install scikit-learn
 # pip list  cdfd
 # pip install ipykernel
